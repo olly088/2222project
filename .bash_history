@@ -1,170 +1,3 @@
-cp time.backup.py working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-vim working_next_run.py
-python3 working_next_run.py
-ls
-cd tests
-ls
-python3 working_next_run.py
-vim working_next_run.py
-cp working_next_run.py time.py
-vim time.py
-python3 working_next_run.py
-clear
-kd
-clear
-cd tests
-vim time.py
-touch b.pu
-touch b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-python3 b.py
-vim b.py
-cd tests
-ls
-vim time.py
-python3 time.py
-vim time.py
-python3 time.py
-vim time.py
-cd ~/ass1
-ls
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-ls
-ls -a
-cat .runner.pid
-cat .runner.status
-vim .runner.conf
-python3 runner.py
-vim .runner.conf
-
-vim .runner.conf
-python3 runner.py
-vim runner.py
-vim .runner.conf
-python3 runner.py
-vim runner.py
-vim .runner.conf
-vim runner.py
-vim .runner.conf
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim .runner.conf
-python3 runner.py
-vim .runner.conf
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim runner.py
-vim .runner.conf
-vim runner.py
-python3 runner.py
-vim runner.py
-vim .runner.conf
-python3 runner.py
-vim .runner.conf
-vim runner.py
-vim .runner.conf
-python3 runner.py
-cd ~/usr
-cd ~
-ls -a
-vim .bashrc
-cd /home
-ls
-cd olly088
-ls
-cd /home
-ls -a
-cd /
-ls -a
-cd usr
-ls
-cd bin
-ls
-cat python3
-vim pthon3
-cd
-cd /usr/bin
-cd /
-cd
-cd tests
-cd ~/ass1
-ls
-vim runner.py
-touch run.py
-vim run.p\y
-vim run.py
-python run.py
-vim .runner.conf
-python run.py
-vim run.py
-python3 run.py
-vim run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
 vim run.py
 python3 run.py
 vim run.py
@@ -1998,3 +1831,170 @@ telnet smtp.gmail.com 465
 openssl s_client -connect smtp.gmail.com:465
 ls
 telnet smtp.gmail.com 25
+ls
+python3 app.py
+cat app.py
+python3 app.py
+ps
+python -m flask run --host=0 --port=5678
+python3 -m flask run --host=0 --port=5678
+ss -ntlp
+ps
+python3 -m flask run --host=0 --port=5678
+cat app.py
+python3 -m flask run --host=0 --port=5678
+ls
+clear
+ls
+cat mprocess.py
+cat app.py
+python3 app.py
+ps
+vim app.py
+python -m flask run --host=0 --port=5000
+python3 -m flask run --host=0 --port=5000
+export FLASK_APP=app.py
+python3 -m flask run --host=0 --port=5678
+vim app.py
+python3 -m flask run --host=0 --port=5678
+vim app.py
+python3 -m flask run --host=0 --port=5678
+ls
+ls templates
+cat templates/about.html
+vim app.py
+python3 -m flask run --host=0 --port=5678
+vim app.py
+python3 -m flask run --host=0 --port=5678
+ls
+cd info1112
+ls
+git clone git.edstem.org:challenge/23655/assignment-2
+ls
+cd assignment-2
+ls
+vim webserv.py
+python3 -m flask run --host=0 --port=5678
+cd
+python3 -m flask run --host=0 --port=5678
+python3 -m flask run --host=0 --port=5678 &
+curl -I 127.0.0.1:5678
+curl -I 127.0.0.1:5678/home
+curl -I 127.0.0.1:5678/hom
+curl -I 127.0.0.1:5678/hello/oliver
+curl -I 127.0.0.1:5678/about
+ps
+kill -9 4422
+curl -I 127.0.0.1:5678/about
+ls
+cd info1112/assignment-2
+ls
+ls -a
+ls
+python3 webserv.py config.cg
+tocuh config.cfg
+touch config.cfg
+python3 webserv.py config.cg
+python3 webserv.py config.cfg
+git add .
+git commit -m "see tests"
+git push
+git add .; git commit -m "see tests"; git push
+python3 webserv.py config.cfg
+python3 webserv.py
+python3 webserv.py config.cfg
+git add .; git commit -m "see tests"; git push
+python3 webserv.py config.cfg
+git add .; git commit -m "config done"; git push
+python3 webserv.py config.cfg
+cd ..
+ls
+cd homeworks
+ls
+cd hw9
+ls
+cd ..
+ls
+cd hw8
+ls
+cd ../hw7
+ls
+cat python-echo-server
+cd python-echo-server
+ls
+cat server.py
+cd ..
+cd assignment-2
+ls
+python3 webserv.py config.cfg
+cat ~/server.py
+python3 webserv.py config.cfg
+git add .; git commit -m "see tests"; git push
+except:
+print("Unable to Load Configuration File")
+python3 webserv.py config.cfg
+git add .; git commit -m "see tests"; git push
+man -L kill
+man kill -L
+kill -L
+cat ~/server.py
+cd
+python3 client.py
+git add .; git commit -m "see tests"; git push
+cd info1112/assignment-2
+git add .; git commit -m "see tests"; git push
+man curl
+cd
+curl localhost:5678/about
+curl localhost:5678/abou
+curl localhost:5678/about
+git add .; git commit -m "see tests"; git push
+cd info1112/assignment-2
+ls
+git add .; git commit -m "see tests"; git push
+curl -I 127.0.0.1/5678/
+curl localhost/567
+curl localhost/5678
+curl localhost:5678
+curl localhost:5678/
+curl localhost:5678//home
+curl localhost:5678/home
+curl localhost:5678/about
+curl localhost:5678/hello/oliver
+curl localhost:5678//hello/oliver
+man curl
+curl  -i localhost:5678//hello/oliver
+curl  -i localhost:5678/
+curl  -i localhost:5678/home
+curl  -i localhost:5678/about
+curl  -i localhost:5678/hello/oliver
+curl/7.73.0 localhost:5678/
+curl 7.73.0 localhost:5678/
+curl -7.73.0 localhost:5678/
+curl 7.73.0 localhost:5678/about
+curl -i localhost:5678/about
+curl localhost:5678/about
+git add .; git commit -m "see tests"; git push
+python3 webserv.py config.cfg
+git add .; git commit -m "see tests"; git push
+python3 webserv.py config.cfg
+git add .; git commit -m "see tests"; git push
+python3 webserv.py &
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+ps
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+cd files
+mkdir files
+ls
+cd files
+ls
+touch greetings.html
+vim greetings.html
+cd ..
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
