@@ -1,164 +1,3 @@
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-cat .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-cat .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-vim runner.py
-vim run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-vim run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-vim runner.py
-vim run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-vim run.py
-python3 run.py
 vim .runner.conf
 python3 run.py
 vim run.py
@@ -1998,3 +1837,164 @@ vim greetings.html
 cd ..
 python3 webserv.py config.cfg &
 curl 127.0.0.1:8070/files/greetings.html
+ls
+cd Deskto[
+cd Desktop
+ls
+cd assignment_2
+ls
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070
+curl 127.0.0.1:8070/
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+ls
+ls -a
+cat files
+ls files
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+ps
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+error_404 = '<html>\n<head>\n\t<title>404 Not Found</title>\n</head>\n<body bgcolor="white">\n<center>\n\t<h1>404 Not Found</h1>\n</center>\n</body>\n</html>'
+# print(error_404) # am i meant to have a file to send or am i ment to send it myself???!?!?
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/files/greetings.html
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+ps
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 1.1 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 0.9 127.0.0.1:8070/greetings.html
+man curl
+python3 webserv.py config.cfg &
+curl -I 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl -i 127.0.0.1:8070/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+ls
+cat app.py
+cat server.py
+cd
+$FILE
+$FILE_PATH
+PATH
+$PATH
+cd /
+ls
+ls home
+ls sys
+ls root
+ls etc
+cd
+ls
+cd info1112
+ls
+cd assignment-2
+ls
+git add .; git commit -m "v1" ; git push
+cd ..
+ls
+cd assignment_1
+ls
+cd assignment-1
+ls
+cat runner.py
+git add .
+git add . ; git commit -m "v1" ; git push
+cd
+cd info1112/assignment-2
+ls
+git add . ; git commit -m "v1" ; git push
+cd
+python3 cliet.py
+python3 client.py
+vim client.py
+python3 client.py
+vim client.py
+python3 client.py
+cat client.py
+git add . ; git commit -m "v1" ; git push
+cd info1112/assignment-2
+ls
+git add . ; git commit -m "v1" ; git push
+ls
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+vim server.py
+python3 server.py
+cat server.py
+cd info1112/assingnment-2
+cd info1112/assignnment-2
+cd info11112
+ls
+cd info1112
+cd assignment-2
+ls
+git add .; git commit -m "v2"; git push
+ls
+python3 webserv.py config.cfg &
+curl 127.0.0.1/8070
+ls
+cat config.cfg
+python3 webserv.py config.cfg &
+curl 127.0.0.1/8070
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+vim
+ls
+ls files
+git add .; git commit -m "v2"; git push
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/
+ps
+curl 127.0.0.1:8070/
+curl 127.0.0.1:8070/files/
+curl 127.0.0.1:8070./files/
+curl 127.0.0.1:8070/files/
+ps
+kill -9 10579
+ps
+clear
+git add .; git commit -m "v2"; git push
+\
