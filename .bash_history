@@ -1,814 +1,3 @@
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-
-python3 run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-python3 run.py
-vim run.py
-vim .runner.conf
-vim run.py
-python3 run.py
-vim run.py
-vim .runner.conf
-vim run.py
-vim .runner.conf
-python3 run.py
-vim run.py
-python3 run.py
-ls
-cd
-ls
-cd /
-ls
-cd bin
-ls
-ls | grep echo
-cd echo
-cat echo
-cd ~/ass1
-ls
-vim run.py
-vim .runner.conf
-vim run.py
-vim .runner.conf
-
-vim run.py
-vim .runner.conf
-python3 run.py
-vim .runner.conf
-python3 run.py
-python3 run.py &
-ps
-vim run.py
-python3 run.py &
-ps
-vim .runner.conf
-python3 run.py &
-ps
-vim run.py
-vim .runner.conf
-python3 run.py &
-vim run.py
-vim .runner.conf
-python3 run.py &
-vim .runner.conf
-vim run.py
-vim .runner.conf
-python3 run.py &
-vim run.py
-python3 run.py &
-exit
-ls
-cd ass1
-ls
-vim runner.py
-cd assignment 1
-cd assignment1
-cat .runner.conf
-ls
-cd ass1
-ls
-vim runner.py
-cat runstatus.py
-man nc
-vim script.sh
-cd ass1
-cat runner.py
-cd assignment1
-ls
-ls -a
-cat .runner.conf
-rm .runner.conf.swp
-ls -a
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-kill -10 91
-ls -a
-kill -10 91
-ps
-python3 runner.py &
-clear
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim runner.py
-python3 runner.py
-vim .runner.conf
-python3 runner.py &
-kill -10 107
-ls -a
-ps
-python3 runner.py &
-ps
-kill -9 110
-ps
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-ps
-kill -9 119
-
-python3 runner.py &
-kill -10 126
-la
-ps
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-ps
-kill -10 132
-ps
-vim runner.py
-python3 runner.py &
-kill -10 137
-ps
-kill -ls
-kill -l
-ls .a
-ls -a
-touch .runner.status
-ls -a
-vim runner.py
-python3 runner.py &
-kill -10 145
-ps
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-ps
-kill -10 152
-ps
-cat .runner.status
-vim .runner.status
-ls -a
-vim runner.py
-python3 runner.py &
-ls
-kill -10 160
-ps
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-kill -10 168
-vim runner.py
-kill -9 168
-ps
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-kill -10 173
-cat .runner.status
-kill -9 173
-vim runner.py
-python3 runner.py &
-kill -10 176
-vim .runner.conf
-python3 runner.py &
-kill -10 178
-cat .runner.status
-kill -10 178
-cat .runner.status
-kill -10 178
-cat .runner.status
-kill -10 178
-cat .runner.status
-kill -9 178
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-kill -10 189
-vim runner.py
-python3 runner.py &
-kill -10 192
-cat .runner.conf
-cat .runner.status
-kill -10 192
-cat .runner.status
-kill -10 192
-cat .runner.status
-ps
-kill -9 176
-kill -9 192
-ps
-vim runner.py
-ls -a
-python3 runner.py
-vim runner.py
-ls -a
-rm .runner.pid
-ls
-ls -a
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-ps
-ls -a
-cat .runner.pid
-rm .runner.pid
-kill -9 210
-ps
-ls -a
-python3 runner.py &
-ls
-ls -a
-cat .runner.pid
-kill -9 218
-ps
-vim runner.py
-python3 runner.py &
-kill -9 224
-ps
-touch runstatus.py
-vim runstatus.py
-python3 runner.py &
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-ps
-kill -9 230
-python3 runner.py &
-ps
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-cat .runner.status
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-cat .runner.status
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-vim runstatus.py
-python3 runstatus.py
-cat .runner.status
-vim .runner.status
-cat .runner.status
-python3 runstatus.py
-vim runner.py
-ps
-kill -9 237
-ps
-python3 runner.py &
-python3 runstatus.py
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-python3 runner.py &
-python3 runstatus.py
-ps
-kill -9 267
-kill -9 270
-kill -9 276
-ps
-cat runner.py
-cat runstatus.py
-vim .runner.conf
-python3 runner.py &
-ls
-clear
-cd
-mkdir hw7
-cd hw7
-git clone git.edstem.org:challenge/22312/compress-and-send
-ls
-cd compress-and-send
-ls
-cat netcat
-vim netcat
-cat netcat
-vim script.sh
-bash script.sh jeff
-vim script.sh
-bash script.sh jeff
-vim script.sh
-touch test.txt
-vim touch.txt
-ls
-cp touch.txt test.txt
-cat test.txt
-rm touch.txt
-ls
-vim script.sh
-man gzip
-man nc
-vim script.sh
-rm test.txt
-ls
-git add .
-git commit -m "v1"
-git push
-vim script.sh
-touch test.txt
-test.txt < JAMRD
-vim test.txt
-touch test1.txt
-vim test1.txt
-cat test.txt
-cat test1.txt
-test.txt < test.txt
-test.txt < grep a
-test.txt < test.txt
-grep < test.txt
-grep a < test.txt
-cat test.txt | grep a
-cat test.txt
-ls -lR
-cd
-ls -lR
-cd hw7
-ls
-cd compress-and-send
-ls
-vim script.sh
-git add .
-git commit -m "v2"
-git push
-ls
-ls -l
-chmod a+rwx netcat
-ls -l
-vim script.sh
-git add .
-git commit -m "v3"
-git push
-vim script.sh
-git add .
-git commit -m "v4"
-git push
-vim script.sh
-git add .
-git commit -m "v5"
-git push
-vim script.sh
-git push
-git add .
-git commit -m "v6"
-git push
-man gzip
-vim script.sh
-git add .
-git commit -m "v7"
-git push
-vim script.sh
-git add .
-git commit -m "v8"
-git push
-ls
-test.txt < jeff
-test.txt < test1.txt
-test.txt < cat test1.txt
-cat < test1.txt
-grep < test1.txt
-uniq < test1.txt
-vim script.sh
-git add .
-git commit -m "v9"
-git push
-ls
-vim script.sh
-git add .
-git commit -m "v9"
-git push
-ls
-vim script.sh
-bash script.sj
-bash script.sh
-bash script.sh test.txt
-ls
-vim script.sh
-bash script.sh test.txt
-ls
-vim script.sh
-rm test.txt.gz
-cp test1.txt test.txt
-ls
-cat test.txt
-bash script.sh test.txt
-ls
-vim script.sh
-rm test.txt.gz
-cp test1.txt test.txt
-vim script.sh test.txt
-ps
-ls
-bash script.sh test.txt
-ls
-vim script.sh
-bash script.sh
-bash script.sh a.txt
-vim script.sh
-bash script.sh a.txt
-vim script.sh
-bash script.sh a.txt
-vim script.sh
-git add .
-git commit -m "v11"
-git push
-man gzip
-vim script.sh
-git add .
-git commit -m "v11"
-git push
-vim script.sh
-git add .
-git commit -m "v11"
-git push
-man gzip
-vim script.sh
-ls
-cp test1.txt a.txt
-cp test1.txt b.txt
-cp test1.txt bctxt
-cp test1.txt c.txt
-cp test1.txt d.txt
-cp test1.txt e.txt
-ls
-cat a.txt | gzip > z.txt
-ls
-cat z.txt
-vim script.sh
-git add .
-git commit -m "v1"
-rm a.txt b.txt c.txt d.txt
-ls
-rm e.txt bctxt z.txt
-ls
-git add .
-git commit -m "v11"
-git push
-vim script.sh
-ls
-rm test.txt.gz
-ls
-bash script.sh test1.txt
-ls
-cat myfile.txt
-vim myfile.txt
-vim script.sh
-bash script.sh test1.txt
-gunzip test1.txt.gz
-ls
-cat test1.txt
-bash script.sh test1.txt
-vim script.sh
-ls
-gunzip test1.txt.gz
-rm myfile.txt
-ls
-bash script.sh
-bash script.sh test1.txr
-bash script.sh test1.txt
-ls
-vim myfile.txt
-vim mscript.sh
-vim script.sh
-ls
-rm myfile.txt
-git add .
-git commit -m "v2"
-git push
-vim script.sh
-git add .
-git commit -m "v2"
-git push
-vim script.sh
-ls
-rm test1.txt
-vim script.sh
-ls
-git add.
-git add .
-git commit -m "please work"
-git push
-cd
-cd hw7
-git clone git.edstem.org:challenge/22318/python-echo-server
-ls
-cd python-echo-server
-ls
-vim server.py
-chmod a+rwx netcat
-ls
-server.py &
-python3 server.py &
-ps
-vim server.py
-python3 server.py &
-git add .
-git commit -m "v1"
-git push
-vim server.py
-python3 server.py &
-vim server.py
-python3 server.py &
-./netcat 127.0.0.1 8002
-vim server.py
-pd
-ps
-python3 server.py &
-./netcat 127.0.0.1 8002
-vim server.py
-git add .
-git commit -m "v2"
-git push
-vim server.py
-git add .
-git commit -m "v2"
-git push
-vim server.py
-git commit -m "v2"
-git add .
-git commit -m "v2"
-git push
-vim script.sh
-vim server.py
-python3 server.py &
-vim server.py
-ls
-cd
-ls
-cd assignment1
-ls
-ls -a
-vim runner.py
-vim runstatus.py
-vim .runner.conf
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-ps
-runstatus.py
-python3 runstatus.py
-vim .runner.conf
-kill -9 871
-python3 runner.py &
-python3 runstatus.py
-python3 runner.py &
-python3 runstatus.py
-ps
-kill -9 809
-kill -9 887
-kill -9 890
-ps
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-vim runner.py
-vim runstatus.py
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-ps
-kill -9 907
-ps
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-ps
-vim runner.py
-ps
-vim .runner.conf
-python3 runner.py &
-vim runner.py
-vim .runner.conf
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-python3 runstatus.py
-cat .runner.conf
-ps
-python3 runner.py &
-ps
-python3 runstatus.py
-vim .runner.conf
-ps
-python3 runner.py &
-python3 runstatus.py
-cat runstatus.py
-vim runner.py
-ps
-python3 runner.py &
-python3 runstatus.py
-vim runner.py
-ps
-python3 runner.py &
-ps
-vim .runner.conf
-vim runner.py
-ps
-kill -9 954
-ps
-python3 runner.py &
-vim runner.py
-ps
-kill -9 961
-ps
-python3 runner.py &
-python3 runstatus.py
-vim runner.py
-python3 runner.py &
-python3 runstatus.py
-vim .runner.conf
-kill -9 969
-kill -9 966
-python3 runner.py &
-python3 runstatus.py
-ps
-vim runner.py
-kill -9 973
-python3 runner.py &
-ps
-kill -9 977
-vim runner.py
-ps
-python3 runner.py &
-ps
-vim runner.py
-python3 runner.py &
-vim runner.py
-ps
-kill -9 985
-python3 runner.py &
-cat .runner.conf
-vim runner.py
-ps
-kill -9 988
-ps
-python3 runner.py &
-vim runner.py
-ps
-kill -9 993
-ps
-python3 runner.py &
-python3 runstatus.py
-vim .runner.conf
-python3 runner.py &
-ps
-kill -9 998
-ps
-python3 runner.py &
-ps
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-python3 runstatus.py
-kill -9 1025
-ps
-vim .runner.conf
-python3 runner.py &
-vim runner.py
-ps
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-ps
-vim runner.py
-python3 runner.py &
-vim runner.py
-ps
-python3 runner.py &
-ps
-vim runner.py
-python3 runner.py &
-vim .runner.conf
-python3 runner.py &
-ps
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-python3 runner.py &
-vim runner.py
-ps
-ls
-cd assignment1
-cat runner.py
-cat runstatus.py
-ls
-mkdir hw8
-mkdir hw9
-cd hw9
-ls
-git clone git.edstem.org:challenge/22313/encrypting-firmware
-ls
-cd encrypting-firmware
-ls
-vim script.sh
-cd
-cd h28
-cd hw8
-ls
-git clone git.edstem.org:challenge/22310/flashing-firmware
-ls
-cd flashing-firmware
-ls
-vim flash.py
-python3 flash.py
-python3 flash.py 9586
-python3 flash.py dfgh
-vim flash.py
-python3 flash.py dfgh
-vim flash.py
-ls
-vim flash.py firmware.bin
-ps -a
-kill -9 775
-ps
-python3 flaash.py firmware.py
-python3 flash.py firmware.bin
-python3 flash.py raw.bin
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
 git push
 vim flash.py
 git add .
@@ -1998,3 +1187,814 @@ ps
 clear
 git add .; git commit -m "v2"; git push
 \
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe "//wsl$/Ubuntu/home/olly088/info1112/wk11/pipe example.py"
+cd
+ls
+cd info112
+cd info1112
+ls
+cd wk11
+ls
+python3 pipe_example.py
+touch mn.py
+vim mn.py
+python3 pipe_example.py
+python3 pipe_example.py mn.py
+python3 pipe_example.py olivee
+python3 pipe_example.py oliver
+touch say_hello.py
+ls
+python3 pipe_example.py
+python3 pipe_example.py oliver
+cd
+cd .
+cd info1112
+cd wk11
+ls
+cat mn.py
+python3 pipe_example.py oliver
+git add .; git commit -m "v2"; git push
+cd info1112
+ls
+cd assignment-2
+s
+ls
+git add .; git commit -m "v2"; git push
+cd
+touch pipe.py
+ls
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+echo test >test
+ls
+cat test
+vim pipe.py
+cat test
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+cat test
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+cat test
+python3 pipe.py
+ls -l 
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+echo test1 >test1
+ls
+vim pipe.py
+ls
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+ls
+touch abc.py
+vim abc.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+ls
+python3 abc.py
+ls
+vim pipe.py
+ls
+python3 abc.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+python3 pipe.py
+vim pipe.py
+touch pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+python3 pipe2.py
+vim pipe2.py
+git add . ; git commit -m "v3" ; git push
+cd info1112/assignment-2
+ls
+git add . ; git commit -m "v3" ; git push
+ls
+ls files
+python3 webserv.py config.cfg &
+curl 127.0.0.1/8070
+curl 127.0.0.1:8070/
+curl 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/Lenna_(test_image).png
+ls
+ls files
+curl 127.0.0.1:8070/Lenna.png
+curl 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/Lenna.png
+curl 127.0.0.1:8070/ Lenna.png
+curl 127.0.0.1:8070/Lenna.png
+ps
+kill -9 27195
+ls
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 27472
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+curl 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/Lenna.png
+curl -o 127.0.0.1:8070/Lenna.png
+curl -O 127.0.0.1:8070/Lenna.png
+ls
+cat lenna.png
+ls -l
+chmod a+rwx
+chmod a+rwx lenna.pnf
+chmod a+rwx lenna.png
+chmod a+rwx Lenna.png
+ls -l
+cat lenna.png
+cat Lenna.png
+rm Lenna.png
+kill -9 27621
+ls -l
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 27865
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 28077
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 28196
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+ps
+kill -9 28265
+ls
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 28370
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+kill -9 28481
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/Lenna.png
+curl - O 127.0.0.1:8070/Lenna.png
+curl -O 127.0.0.1:8070/Lenna.png
+ls
+ps
+kill -9 19978
+kill -9 20263
+kill -9 20266
+kill -9 20319
+kill -9 28654
+ps
+git add . ; git commit -m "v4" ; git push
+ps
+ls
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/Lenna.png
+ps
+curl 127.0.0.1:8070/greetings.html
+kill -9 3225
+ps
+ls
+cd Tests
+;s
+ls
+cd
+cd info1112/assignment-2
+ls
+vim config.cfg
+touch wrong_config.cfg
+vim wrong_config.cfg
+python3 webserv.py wrong_config.cfg
+python3 webserv.py wrong_config.cfg &
+ps
+vim config.cfg
+ls
+ls tests
+
+cd tests
+ls
+rm wrong_arg.out
+ls
+cd ..
+cd tests
+ls
+cat wrong_arg.sh
+bash wrong_arg.out
+bash wrong_arg.sh
+ls
+cd ..
+ls
+cat wrong_config.cfg
+bash wrong_arg.sh
+cd tests
+bash wrong_arg.sh
+cd ..
+ls
+cat wrong_config.cfg
+python3 webserv.py wrong_config.cfg &
+python3 webserv.py wrong_config.cfg
+cd tests
+ls
+bash wrong_arg.sh
+ls
+cd
+cd info1112
+cd assignment-2
+cd tests
+ls
+bash missing_arg.sh
+bash missing_arg_test.sh
+bash test.sh
+cd ..
+cd tests
+ls
+cat wrong_config_test.sh
+bash wrong_config.sh
+bash wrong_config_test.sh
+cd ..
+ls
+cat wrong_config.cfg
+cd tests
+cd ..
+python3 webserv.py config.cfg &
+PID=$!
+cd -
+python3 ../webserv.py wrong_config.cfg 
+ls ..
+echo $PID
+ps
+$PID
+ps
+kill 4152
+ps
+kill 3918
+kill 3892
+kill 3898
+kill 3904
+ls
+ps
+kill -9 3886
+kill -9 3892
+ps
+bash wrong_config_test.sh
+ps
+bash wrong_config_test.sh
+cd .
+bash wrong_config_test.sh
+diff wrong_config.out a.out
+bash wrong_config_test.sh
+ps
+bash wrong_config_test.sh
+ps
+bash wrong_config_test.sh
+ps
+kill -9 3922
+ps
+cd ..
+python3 webserv.py config.cfg &
+curl 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/greetings.html 2>
+curl 127.0.0.1:8070/greetings.html 2> /dev/null
+curl 127.0.0.1:8070/greetings.html 2> /dev/null | grep '200 OK'
+curl 127.0.0.1:8070/greetings.html 2> /dev/null
+curl -I 127.0.0.1:8070/greetings.html 2> /dev/null
+curl -I 127.0.0.1:8070/greetings.html 2> /dev/null | grep '200 OK'
+ls
+rm -r Tests
+ls
+curl -I 127.0.0.1:8070/Lenna.png 2> /dev/null | grep '200 OK'
+curl -I 127.0.0.1:8070/Lenna.png 2> /dev/null
+curl -I 127.0.0.1:8070/jpeg_example.jpg 2> /dev/null
+ls
+cd tests
+ls
+bash jpeg_content_test.sh
+man tr
+bash jpeg_content_test.sh
+ps
+bash wrong_config_test.sh
+ps
+bash wrong_config_test.sh
+ps
+bash wrong_config_test.sh
+bash jpeg_content_test.sh
+ps
+bash jpeg_content_test.sh
+ps
+curl -I 127.0.0.1:8070/jpeg_example.jpg
+bash jpeg_status_code_test.sh
+man curl
+cd ..
+curl 127.0.0.1/greetings.html
+python3 webserv.py config.cfg &
+curl 127.0.0.1/greetings.html
+curl 127.0.0.1:8070/greetings.html
+curl -v 127.0.0.1:8070/greetings.html
+curl -v -H "X-Header: value" 127.0.0.1:8070/greetings.html
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/greetings.html
+ls
+cd -
+cd ..
+ls
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/content_length.py
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/cgibin/content_length.py
+ls
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/cgibin/content_length.py
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/content_length.py
+ps
+kill -9 6108
+kill -9 6036
+ps
+python3 webserv.py config.cfg &
+curl -v 127.0.0.1:8070/content_length.py
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+kill -9 6299
+python3 webserv.py config.cfg &
+curl -v 127.0.0.1:8070/content_length.py
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/content_length.py
+curl -v -H "Content-Length: 27" 127.0.0.1:8070/cgibin/content_length.py
+ps
+kill -9 6520
+kill -9 6473
+kill -9 6363
+kill -9 6303
+ls
+ps
+python3 webserv.py config.cfg &
+curl -I 127.0.0.1:8070/greetings.html
+curl -v 127.0.0.1:8070/greetings.html
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+ps
+ls
+touch kill_ps.sh
+rm kill_ps.sh
+touch kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+vim kill_py_ps.sh
+bash kill_py_ps.sh
+ps
+touch kill_all_py.sh
+vim kill_all_py.sh
+ps
+python3 webserv.py config.cfg &
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/content_length.py
+curl -v 127.0.0.1:8070/ccontent_length.py
+curl -v 127.0.0.1:8070/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+cd info1112/assignment-2
+ls
+python3 webserv.py config.cfg
+kill_py_pa.sh
+bash kill_py_ps.sh
+python3 webserv.py config.cfg
+mkdir cgibin
+ls
+cp content_legnth.py cgibin/content_length.py
+mv content_legnth.py cgibin/content_length.py
+mv content_length.py cgibin/content_length.py
+ls
+ls cgibin
+python3 webserv.py config.cfg
+python3 ws.py config.cfg
+python3 ws1.py config.cfg
+python3 ws.py config.cfg
+python3 websserv.py config.cfg
+python3 webserv.py config.cfg
+python3 websserv.py config.cfg
+python3 webserv.py config.cfg
+ps
+python3 webserv.py config.cfg
+git add .; git commit -m "v5" ; git push
+python3 webserv.py config.cfg
+git add .; git commit -m "v5" ; git push
+cd info1112/assignment-2
+ls
+curl -I 127.0.0.1:8070
+curl -I 127.0.0.1:8070/greetings.html
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.dpy
+man curl
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.dpy
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.dpy
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.dpy
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.py
+ls
+cat ./cgibin/content_length.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -v --http0.9 127.0.0.1:8070/cgibi content_length.py
+curl --http0.9 127.0.0.1:8070/cgibi content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/greetings.html
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -v -H "Content-Type: application" --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.pay
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.pya
+ps
+curl -I --http0.9 127.0.0.1:8070/cgibin/content_length.pya
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.pya
+curl --http0.9 127.0.0.1:8070/cgibin/co-I ntent_length.pya
+curl --http0.9 127.0.0.1:8070/cgibin/co-I content_length.pya
+curl --http0.9 127.0.0.1:8070/cgibin/co-I content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_length.py
+curl --http0.9 127.0.0.1:8070/cgibin/content_laength.py
+curl --http0.9 127.0.0.1:8070/cgibin/co-v ntent_laength.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/co-v ntent_laength.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/co-v ntent_laength.py
+curl -I --http0.9 127.0.0.1:8070/cgibin/co-v ntent_laength.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/co-v ntent_laength.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/content_laength.py
+curl -v --http0.9 127.0.0.1:8070/cgibin/I content_laength.py
+curl -I 127.0.0.1:8070/cgibin/asd.py
+curl 127.0.0.1:8070/cgibin/asd.py
+curl -v 127.0.0.1:8070/cgibin/asd.py
+curl 127.0.0.1:8070/cgibin/asd.py
+curl -I 127.0.0.1:8070/cgibin/asd.py
+curl 127.0.0.1:8070/cgibin/asd.py
+curl -I 127.0.0.1:8070/cgibin/asd.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl 127.0.0.1:8070/cgibin/content_length.py
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+curl 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl -v 127.0.0.1:8070/cgibin/content_length.py
+curl -I 127.0.0.1:8070/cgibin/content_length.py
+curl 127.0.0.1:8070/cgibin/content_length.py
+curl -H "Accepcept-Encoding: gzip" 127.0.0.1:8070/cgibin/content_length.py
+curl -H -v -H "Accepcept-Encoding: gzip" 127.0.0.1:8070/cgibin/content_length.py
+curl -H -H "Accepcept-Encoding: gzip" 127.0.0.1:8070/cgibin/content_length.py
+curl -v 127.0.0.1:8070
+curl -v 127.0.0.1:8070/greetings.html
+curl -v 127.0.0.1:8070/files/greetings.html
+curl -v 127.0.0.1:8070/greetings.html
+curl -H "Accept-encoding"
+curl -H "Accept-encoding" 127.0.0.1:8070
+curl -H "Accept-encoding" -v 127.0.0.1:8070
+ls
+ls files
+cat files/greetings.html
+curl 127.0.0.1:8070/greetings.html
+curl -I 127.0.0.1:8070/greetings.html
+curl -H "Accept-Encoding: gzip" 127.0.0.1:8070/greetings.html
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+curl -O -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+ls
+cat greetings.html
+rm greetings.html
+ls
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+curl --output -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html --output
+curl -O -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+ls
+cat greetings.html
+gunzip -d greetings.html
+gunzip greetings.html
+cp greetings.html greetings.gz
+ls
+gunzip greetings.gz
+ls
+cat greetings
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/Lenna.png -o dw.gz
+ls
+gzip -d dw.gz
+ls
+cat dw
+rm dw greetings greetings.html rm kill_all_py.sh
+rm dw greetings greetings.html kill_all_py.sh
+ls
+ps
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/greetings.html
+curl -I 127.0.0.1:8070/greetings.html
+curl 127.0.0.1:8070/greetings.html
+ls
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/cgibin/content_length.py
+curl -H "Accept-Encoding: sadfb gzip jsdndnd" 127.0.0.1:8070/cgibin/content_length.py -o "test.gz"
+ls
+gzip -d test.gz
+ls
+cat test
+vim test
+ps
+kill -9 21336
+curl 127.0.0.1:8070/cgibin/abc.py
+curl -I 127.0.0.1:8070/cgibin/abc.py
+curl 127.0.0.1:8070/cgibin/abc.py
+ps
+ps -axl
+ps -a
+ps -x
+ls
+touch kill_py.sh
+vim kill_py.sh
+bash kill_py.sh
+vim kill_py.sh
+bash kill_py.sh
+vim kill_py.sh
+bash kill_py.sh
+vim kill_py.sh
+bash kill_py.sh
+vim kill_py.sh
+bash kill_py.sh
+ps -x
+ps -axl
+clear
+exit
+ls
+cd info1113
+ls
+vim hello.java
+ls
+touch hello.java
+ls
+java -version
+sudo apt install openjdk-14-jre-headless
+java -version
+javac -version
+sudo apt install openjdk-14-jdk-headless
+javac -version
+java -version 
+ls
+cd info1113
+ls
+touch HelloWorld.java
+vim HelloWorld.java
+javac HelloWorld.java
+vim HelloWorld.java
+javac HelloWorld.java
+ls
+java HelloWorld
+ls
+rm hello.java
+touch Hello.java
+vim Hello.java
+git clone git.edstem.org:challenge/32523/assignment-2-colour-tree
+ls
+cd assignment-2-colour-tree
+ls
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe c:\Users\olive\.vscode\extensions\ms-python.python-2021.2.633441544\pythonFiles\pyvsc-run-isolated.py c:\Users\olive\.vscode\extensions\ms-python.python-2021.2.633441544\pythonFiles\shell_exec.py C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe c:\Users\olive\.vscode\extensions\ms-python.python-2021.2.633441544\pythonFiles\pyvsc-run-isolated.py pip install -U ipykernel --user C:/Users/olive/AppData/Local/Temp/tmp-7552d1aT5OyhWi1H.log
+git add .
+ls
+cd assignment-2-colour-tree
+python tree.py
+python3 tree.py
+python3 node.py
+python3 tree.py
+python3 node.py
+python3 tree.py
+git add .
+git commit -m "v3"
+git push
+git add .
+git commit -m "v4"
+git push
+git add .
+python3 tree.py
+git add .
+git commit -m "v5"
+git push
+git add .; git commit -m "v5" ; git push
+python -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+root = Node(Colours.CYAN)
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .; git commit -m "v5" ; git push
+cd assignment-2-colour-tree
+ls
+cat tree.py
+git add .
+git commit
+git commit -m "v1"
+git push
+cd .
+ls .
+ls /
+ls ~
+ls
+git add .
+git commit -m "v2"
+git commit
+git push
