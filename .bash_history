@@ -1,68 +1,3 @@
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-git add .
-git commit -m "v"
-git push
-ls
-cat raw.bin
-car firmware.bin
-cat firmware.bin
-vim firmware.bin
-vim flash.py
-git add .
-git commit -m "v"
-git push
-vim flash.py
-ls
-python3 flash.py raw.bin
-vim flash.py
-python3 flash.py raw.bin
-vim flash.py
-python3 flash.py raw.bin
-vim flash.py
-python3 flash.py raw.bin
-vim flash.py
-python3 flash.py raw.bin
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-python3 flash.py
-python3 flash.py firmware.py
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-vim flash.py
-python3 flash.py firmware.bin
-vim flash.py
-cd
-cd hw9
-ls
-cd encrypting-firmware
-ls
-vim script.sh
-bash script.sh
-bash script.sh jeff
-vim script.sh
-bash script.sh jeff
-bash script.sh jefrgtg
-vim script.sh
-man openssl
-vim script.sh
-ls
 d
 cd
 mkdir thw9
@@ -1998,3 +1933,68 @@ git add .
 git commit -m "v2"
 git commit
 git push
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe //wsl$/Ubuntu/home/olly088/assignment-2-colour-tree/node.py
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .
+git commit -m "v6"
+ls
+cd assignment-2-colour-tree
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .; git commit -m "v6"; git push
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe //wsl$/Ubuntu/home/olly088/assignment-2-colour-tree/tree.py
+cd assignment-2-colour-tree
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+python3 tree.py
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+python3 tree.py
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+python3 node.py
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe //wsl$/Ubuntu/home/olly088/assignment-2-colour-tree/tree.py
+git clone git.edstem.org:challenge/32523/assignment-2-colour-tree
+ls
+cd assignment-2-colour-tree
+ls
+cd assignment-2-colour-tree
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .
+git commit -m "v7"
+git push
+python3 -m unittest -vv
+git add .
+git commit -m "v8"
+git push
+git add .
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .
+git commit -m "v8"
+git push
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .
+git commit -m "v9"
+git push
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .; git commit -m "v9"; git push
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .; git commit -m "v9"; git push
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe //wsl$/Ubuntu/home/olly088/assignment-2-colour-tree/node.py
+ls
+cd assignment-2-colour-tree
+ls
+git add .
+git commit -m "v8" 
+git push
+C:/Users/olive/AppData/Local/Programs/Python/Python38/python.exe //wsl$/Ubuntu/home/olly088/assignment-2-colour-tree/colours.py
+ls
+cd assignment-2-colour-tree
+ls
+python3 -m unittest -v tests/test_sample_tree.py tests/test_sample_node.py
+git add .; git commit -m "v10"; git push
+git add .; git commit -m "checking"; git push
+git add .; git commit -m "v10"; git push
+python3 -m unittest -v tests/test_sample_tree.py
+python3 -m unittest -vv
+python3 node.py
+python3 -m unittest -v tests/test_sample_tree.py
+git add .; git commit -m "v10"; git push
+git add .; git commit -m "v15"; git push
