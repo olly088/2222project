@@ -69,40 +69,174 @@ $
 |3,1,36,0,1,0,1605332210,"f"
 
 # File marks:
-'0  9  2  ~/info1113/Hello.java
-|4,48,9,2,1615347251,"~/info1113/Hello.java"
-'1  3  26  ~/info1113/HelloWorld.java
-|4,49,3,26,1615347042,"~/info1113/HelloWorld.java"
-'2  7  0  ~/info1113/HelloWorld.java
-|4,50,7,0,1615347007,"~/info1113/HelloWorld.java"
-'3  7  0  ~/info1113/HelloWorld.java
-|4,51,7,0,1615347007,"~/info1113/HelloWorld.java"
-'4  1  0  ~/info1113/hello.java
-|4,52,1,0,1614670273,"~/info1113/hello.java"
-'5  6  10  ~/time.py
-|4,53,6,10,1607071754,"~/time.py"
-'6  5  23  ~/time.py
-|4,54,5,23,1607071727,"~/time.py"
-'7  6  23  ~/time.py
-|4,55,6,23,1607071727,"~/time.py"
-'8  5  17  ~/time.py
-|4,56,5,17,1607071713,"~/time.py"
-'9  6  17  ~/time.py
-|4,57,6,17,1607071713,"~/time.py"
+'0  1  0  ~/W14C_Group3_Project/Tutorial Week 3/StringTool.java
+|4,48,1,0,1630472406,"~/W14C_Group3_Project/Tutorial Week 3/StringTool.java"
+'1  5  68  ~/self_learning/project1/README.md
+|4,49,5,68,1622688192,"~/self_learning/project1/README.md"
+'2  3  4  ~/self_learning/project1/README.md
+|4,50,3,4,1622687992,"~/self_learning/project1/README.md"
+'3  3  4  ~/self_learning/project1/README.md
+|4,51,3,4,1622687992,"~/self_learning/project1/README.md"
+'4  9  2  ~/info1113/Hello.java
+|4,52,9,2,1615347251,"~/info1113/Hello.java"
+'5  3  26  ~/info1113/HelloWorld.java
+|4,53,3,26,1615347042,"~/info1113/HelloWorld.java"
+'6  7  0  ~/info1113/HelloWorld.java
+|4,54,7,0,1615347007,"~/info1113/HelloWorld.java"
+'7  7  0  ~/info1113/HelloWorld.java
+|4,55,7,0,1615347007,"~/info1113/HelloWorld.java"
+'8  1  0  ~/info1113/hello.java
+|4,56,1,0,1614670273,"~/info1113/hello.java"
+'9  6  10  ~/time.py
+|4,57,6,10,1607071754,"~/time.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/W14C_Group3_Project/Tutorial Week 3/StringTool.java
+|4,39,1,0,1630472406,"~/W14C_Group3_Project/Tutorial Week 3/StringTool.java"
+-'  5  68  ~/self_learning/project1/README.md
+|4,39,5,68,1622688192,"~/self_learning/project1/README.md"
+-'  5  68  ~/self_learning/project1/README.md
+|4,39,5,68,1622688192,"~/self_learning/project1/README.md"
+-'  3  4  ~/self_learning/project1/README.md
+|4,39,3,4,1622688067,"~/self_learning/project1/README.md"
+-'  3  4  ~/self_learning/project1/README.md
+|4,39,3,4,1622688067,"~/self_learning/project1/README.md"
+-'  3  4  ~/self_learning/project1/README.md
+|4,39,3,4,1622687992,"~/self_learning/project1/README.md"
+-'  3  4  ~/self_learning/project1/README.md
+|4,39,3,4,1622687992,"~/self_learning/project1/README.md"
+-'  1  0  ~/self_learning/project1/README.md
+|4,39,1,0,1622687968,"~/self_learning/project1/README.md"
+-'  1  0  ~/self_learning/project1/README.md
+|4,39,1,0,1622687968,"~/self_learning/project1/README.md"
+-'  1  0  ~/self_learning/project1/README.md
+|4,39,1,0,1622687968,"~/self_learning/project1/README.md"
+-'  1  0  ~/self_learning/project1/README.md
+|4,39,1,0,1622687968,"~/self_learning/project1/README.md"
 -'  9  2  ~/info1113/Hello.java
 |4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  9  2  ~/info1113/Hello.java
+|4,39,9,2,1615347251,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
+-'  1  0  ~/info1113/Hello.java
+|4,39,1,0,1615347123,"~/info1113/Hello.java"
 -'  1  0  ~/info1113/Hello.java
 |4,39,1,0,1615347123,"~/info1113/Hello.java"
 -'  3  26  ~/info1113/HelloWorld.java
 |4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
 -'  3  26  ~/info1113/HelloWorld.java
 |4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
+-'  3  26  ~/info1113/HelloWorld.java
+|4,39,3,26,1615347042,"~/info1113/HelloWorld.java"
 -'  7  0  ~/info1113/HelloWorld.java
 |4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
 -'  7  0  ~/info1113/HelloWorld.java
 |4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347028,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
+-'  7  0  ~/info1113/HelloWorld.java
+|4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
 -'  7  0  ~/info1113/HelloWorld.java
 |4,39,7,0,1615347007,"~/info1113/HelloWorld.java"
 -'  7  0  ~/info1113/HelloWorld.java
@@ -115,184 +249,66 @@ $
 |4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
 -'  6  0  ~/info1113/HelloWorld.java
 |4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
--'  5  0  ~/info1113/HelloWorld.java
-|4,39,5,0,1615346995,"~/info1113/HelloWorld.java"
--'  5  0  ~/info1113/HelloWorld.java
-|4,39,5,0,1615346995,"~/info1113/HelloWorld.java"
--'  5  0  ~/info1113/HelloWorld.java
-|4,39,5,0,1615346995,"~/info1113/HelloWorld.java"
--'  5  0  ~/info1113/HelloWorld.java
-|4,39,5,0,1615346995,"~/info1113/HelloWorld.java"
--'  1  0  ~/info1113/HelloWorld.java
-|4,39,1,0,1615346924,"~/info1113/HelloWorld.java"
--'  1  0  ~/info1113/HelloWorld.java
-|4,39,1,0,1615346924,"~/info1113/HelloWorld.java"
--'  1  0  ~/info1113/HelloWorld.java
-|4,39,1,0,1615346924,"~/info1113/HelloWorld.java"
--'  1  0  ~/info1113/HelloWorld.java
-|4,39,1,0,1615346924,"~/info1113/HelloWorld.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  1  0  ~/info1113/hello.java
-|4,39,1,0,1614670273,"~/info1113/hello.java"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  6  10  ~/time.py
-|4,39,6,10,1607071754,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  5  23  ~/time.py
-|4,39,5,23,1607071737,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  23  ~/time.py
-|4,39,6,23,1607071727,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  6  17  ~/time.py
-|4,39,6,17,1607071713,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
--'  8  35  ~/time.py
-|4,39,8,35,1607071706,"~/time.py"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
+-'  6  0  ~/info1113/HelloWorld.java
+|4,39,6,0,1615347003,"~/info1113/HelloWorld.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/W14C_Group3_Project/Tutorial Week 3/StringTool.java
+	*	1630472406	0
+	"	1	0
+
+> ~/self_learning/project1/README.md
+	*	1622688191	0
+	"	5	68
+	^	5	69
+	.	4	0
+	+	3	155
+	+	4	1
+	+	3	0
+	+	4	0
+	+	3	0
+	+	4	0
 
 > ~/info1113/Hello.java
 	*	1615347123	0
@@ -2810,47 +2826,3 @@ $
 	+	11	46
 	+	9	16
 	+	11	46
-
-> ~/address-book/book.csv
-	*	1601215028	0
-	"	5	21
-	^	5	22
-	.	5	17
-	+	5	17
-
-> ~/size-of-executable/script.sh
-	*	1601213709	0
-	"	4	54
-	^	4	55
-	.	5	0
-	+	4	42
-	+	4	81
-	+	5	2
-	+	4	3
-	+	5	81
-	+	4	81
-	+	4	53
-	+	5	54
-	+	4	53
-	+	6	15
-	+	6	26
-	+	5	42
-	+	4	54
-	+	5	54
-	+	4	60
-	+	5	61
-	+	4	61
-	+	6	17
-	+	6	18
-	+	7	0
-	+	6	24
-	+	7	8
-	+	6	0
-	+	5	0
-	+	4	64
-	+	5	64
-	+	4	41
-	+	5	42
-	+	4	42
-	+	6	0
-	+	5	0
